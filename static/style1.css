@@ -1,0 +1,81 @@
+#my_name{
+	color: yellow;
+	font-size: 80px;
+	border : solid;
+
+	text-align: center;
+
+	margin: 30px;
+	padding: 30px
+
+
+}
+
+#Hello{
+	padding: 20px;
+	border : solid;
+
+	color: white;
+	font-size: 60px;
+
+	text-align: center;
+	font-family: sans-serif;
+	padding: 30px;
+
+
+
+}
+
+#br{
+	border: solid;
+	text-align: center;
+	color: #B65EE2;
+	font-style: italic;
+	
+	list-style: none;
+	font-size: 200px;
+
+
+}
+
+#img{
+	width: 1000px;
+	margin: auto;
+	display: block;
+
+
+}
+
+.bd{
+
+	background-image: url('pic1.jpg') ;
+	
+}
+#But{
+
+	font-size: 60px;
+	margin: auto;
+	display: block;
+	padding: 20px;
+	background-color: #85F712; /* Green */
+    border: none;
+    
+    padding: 32px;
+    text-align: center;
+    text-decoration: none;
+    
+	border: solid;
+
+
+
+}
+
+
+#But2{
+	font-size: 60px;
+	margin: auto;
+	display: block;
+	padding: 20px;
+	background-color: #12D1F7;
+	border: solid;
+}
